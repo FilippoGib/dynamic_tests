@@ -1,0 +1,3 @@
+[console_scripts]
+dynamic_tests_node = dynamic_tests.dynamic_tests_node:main
+

@@ -1,0 +1,26 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+creating dynamic_tests.egg-info
+writing dynamic_tests.egg-info/PKG-INFO
+writing dependency_links to dynamic_tests.egg-info/dependency_links.txt
+writing entry points to dynamic_tests.egg-info/entry_points.txt
+writing requirements to dynamic_tests.egg-info/requires.txt
+writing top-level names to dynamic_tests.egg-info/top_level.txt
+writing manifest file 'dynamic_tests.egg-info/SOURCES.txt'
+reading manifest file 'dynamic_tests.egg-info/SOURCES.txt'
+writing manifest file 'dynamic_tests.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/filippo/Formula/dynamic_tests/install/dynamic_tests/lib/python3.10/site-packages/dynamic-tests.egg-link (link to .)
+Installing dynamic_tests_node script to /home/filippo/Formula/dynamic_tests/install/dynamic_tests/lib/dynamic_tests
+
+Installed /home/filippo/Formula/dynamic_tests/build/dynamic_tests
+running symlink_data
+creating /home/filippo/Formula/dynamic_tests/install/dynamic_tests/share/ament_index
+creating /home/filippo/Formula/dynamic_tests/install/dynamic_tests/share/ament_index/resource_index
+creating /home/filippo/Formula/dynamic_tests/install/dynamic_tests/share/ament_index/resource_index/packages
+symbolically linking /home/filippo/Formula/dynamic_tests/build/dynamic_tests/resource/dynamic_tests -> /home/filippo/Formula/dynamic_tests/install/dynamic_tests/share/ament_index/resource_index/packages
+symbolically linking /home/filippo/Formula/dynamic_tests/build/dynamic_tests/package.xml -> /home/filippo/Formula/dynamic_tests/install/dynamic_tests/share/dynamic_tests
+creating /home/filippo/Formula/dynamic_tests/install/dynamic_tests/share/dynamic_tests/launch
+symbolically linking /home/filippo/Formula/dynamic_tests/build/dynamic_tests/launch/dynamic_tests_launch.py -> /home/filippo/Formula/dynamic_tests/install/dynamic_tests/share/dynamic_tests/launch
