@@ -1,6 +1,7 @@
 package.xml
 setup.cfg
 setup.py
+dynamic_tests/PIDcontroller.py
 dynamic_tests/__init__.py
 dynamic_tests/dynamic_tests_node.py
 dynamic_tests.egg-info/PKG-INFO
